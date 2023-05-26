@@ -10,6 +10,18 @@
 <h5>Robot Open AI</h5>
 <li>https://chat.openai.com/</li>
 
+<ol> 
+<h3>Design Tools</h3>
+  <li>https://freefrontend.com/</li>
+  <li>https://tailwindcomponents.com/</li>
+  <li>https://tailwind-elements.com/</li>
+  <li>https://www.hyperui.dev/</li>
+  <li>https://horizon-ui.com/</li>
+  <li>https://dev.to/cruip/25-places-where-you-can-get-free-tailwind-css-components-47lm</li>
+  <li>https://www.tailwindawesome.com/?price=free</li>
+  <li>https://merakiui.com/</li>
+  <li>https://www.tailwind-kit.com/</li>
+</ol>
 
 
 
