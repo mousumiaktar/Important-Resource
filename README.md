@@ -11,7 +11,7 @@
 <li>https://chat.openai.com/</li>
 
 
-<h3>Design Tools</h3>
+<h4>Design Tools</h4>
 <li>https://freefrontend.com/</li>
 <li>https://tailwindcomponents.com/</li>
 <li>https://tailwind-elements.com/</li>
@@ -23,7 +23,8 @@
 <li>https://www.tailwind-kit.com/</li>
 
 
-
+<h4>Button Design and Animation With Tailwind CSS</h4>
+<li>https://devdojo.com/tailwindcss/buttons</li>
 
 <p>
 <h3>Code formatting vs code</h3>
