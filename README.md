@@ -9,6 +9,12 @@
 <li>https://animista.net/play/</li>
 <h5>Robot Open AI</h5>
 <li>https://chat.openai.com/</li>
+<h4>Color plate</h4>
+<li>https://colorhunt.co/?fbclid=IwAR1rpPJ6jcb78VZJmSA_Xy9w0M_6N1F5N9OrOLVd6eb57_iwHST7h0IEF80</li>
+<li>https://flatuicolors.com/?fbclid=IwAR3FPsxPyQPigWAkE0xnA3uXXvfUPCc238ubA8yTI9xgtDgbpxlN5-QccTk</li>
+
+<h4>SVG ICOn</h4>
+<li>https://www.svgrepo.com/?fbclid=IwAR0jXKpNAkUTmvYe4q6p11DIo7rBPskpN0H0Jub2KeyMTkfwPrH2c0H-TFA</h4>
 
 
 <h4>Design Tools</h4>
